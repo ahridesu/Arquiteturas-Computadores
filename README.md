@@ -15,4 +15,4 @@
 6. Independentemente disso, também juro pessoalmente sobre a **correção** dos programas aqui dispostos. Todos testados e verificados. Outra vez, aceitam-se melhores versões de implementação
 7. Por fim, na aula 11 de `ac2` só tenho disponível até metade da parte 2 do guião. Sendo esses os únicos exercícios em falta 
 
-#### Aceitam-se contactos ou pedidos de esclarecimento mas pessoalmente prefiro que venham em formato de insulto. Vitríulo é a unica coisa coisa que me mantem vivo.
+###### Aceitam-se contactos ou pedidos de esclarecimento mas pessoalmente prefiro que venham em formato de insulto. Vitríulo é a unica coisa coisa que me mantem vivo.
